@@ -6,8 +6,8 @@ I'm Dan, and I've been in lots of IT roles, many that are dedicated Infosec role
 I've been: Helpdesk, Systems Administrator, IT Director, Network Engineer, Security Engineer, Data Security Analyst, Information Security Engineer.
 I have infosec experience in: Security design/architecting, Pen Testing, IAM, SOC, GRC, IR, and lots of little things in between.
 
-# pivoting to AI Security
-# AI Red Teamer Career Roadmap
+
+# AI Red Teamer Career Roadmap | created by a mix of human research and Claud :D
 **Goal:** Become a qualified AI red teamer by 2026  
 **Timeline:** 12-18 months  
 **Starting Point:** Information Security Engineer with pen testing background
