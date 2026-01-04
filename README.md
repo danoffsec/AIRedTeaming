@@ -9,7 +9,7 @@ I've been: Helpdesk, Systems Administrator, IT Director, Network Engineer, Secur
 I have infosec experience in: Security design/architecting, Pen Testing, IAM, SOC, GRC, IR, and lots of little things in between.
 
 
-# AI Red Teamer Career Roadmap | created by a mix of human research and Claud :D
+# AI Red Teamer Career Roadmap | created by a mix of human research and Claude :D
 **Goal:** Become a qualified AI red teamer by 2026  
 **Timeline:** 12-18 months  
 **Starting Point:** Information Security Engineer with pen testing background
