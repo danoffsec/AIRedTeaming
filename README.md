@@ -3,9 +3,10 @@ My journey into becoming AI's worst enemy :D
 
 # whoami
 I'm Dan, and I've been in lots of IT roles, many that are dedicated Infosec roles, with about 15 years of total experience. 
--I've been: Helpdesk, Systems Administrator, IT Director, Network Engineer, Security Engineer, Data Security Analyst, Information Security Engineer.
 
--I have infosec experience in: Security design/architecting, Pen Testing, IAM, SOC, GRC, IR, and lots of little things in between.
+I've been: Helpdesk, Systems Administrator, IT Director, Network Engineer, Security Engineer, Data Security Analyst, Information Security Engineer.
+
+I have infosec experience in: Security design/architecting, Pen Testing, IAM, SOC, GRC, IR, and lots of little things in between.
 
 
 # AI Red Teamer Career Roadmap | created by a mix of human research and Claud :D
