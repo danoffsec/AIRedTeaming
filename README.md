@@ -257,12 +257,6 @@ Start attacking AIs immediately to stay motivated and see why you're learning th
 - Write a compelling narrative about your transition from traditional to AI security
 - Apply to junior-to-mid level roles (don't wait for "perfect" qualifications)
 
-### Internal Opportunities
-- Propose AI security practice at The McAlear Group
-- Lead AI security assessments for clients adopting AI
-- Build internal expertise and case studies
-- Consider this as either a stepping stone or potential long-term path
-
 ### Alternative Entry Points
 - Look for "Security Engineer" roles at AI companies (easier entry, internal transition)
 - Consider "ML Security Engineer" or "AI Safety Engineer" positions
